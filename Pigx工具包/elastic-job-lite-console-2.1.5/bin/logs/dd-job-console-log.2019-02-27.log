@@ -1,0 +1,5 @@
+[INFO ] 2019-02-27 13:53:35,245 --main-- [com.dangdang.ddframe.job.restful.RestfulServer] Elastic Job: Start RESTful server 
+[INFO ] 2019-02-27 13:53:35,264 --main-- [org.eclipse.jetty.server.Server] jetty-8.1.19.v20160209 
+[WARN ] 2019-02-27 13:53:35,430 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
+[WARN ] 2019-02-27 13:53:35,430 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
+[INFO ] 2019-02-27 13:53:35,609 --main-- [org.eclipse.jetty.server.AbstractConnector] Started SelectChannelConnector@0.0.0.0:8899 

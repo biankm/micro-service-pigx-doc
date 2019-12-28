@@ -1,0 +1,4 @@
+[WARN ] 2019-02-28 15:58:27,507 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
+[WARN ] 2019-02-28 15:58:27,508 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
+[WARN ] 2019-02-28 17:26:03,632 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
+[WARN ] 2019-02-28 17:26:03,632 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
